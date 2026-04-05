@@ -29,7 +29,7 @@ def get_requirements()->List[str]:
 
 setup(
     name="networksecurity",
-    varsion = "0.0.1",
+    version = "0.0.1",
     author="Simarlar",
     author_email="simakumariktg147@gmail.com",
     packages=find_packages(),
